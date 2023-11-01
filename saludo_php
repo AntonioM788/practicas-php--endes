@@ -1,0 +1,7 @@
+<?php
+$nombre = $_GET['name']; 
+$apellidos = $_GET['apellidos']; 
+
+echo "Hola $nombre $apellidos";
+
+?>

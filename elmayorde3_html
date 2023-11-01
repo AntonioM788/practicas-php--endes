@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>elmayorde3</title>
+</head>
+<body>
+    <form action="elmayorde3.php">
+    Introduce el primer numero: <input type="text" name="numero1"><br/>
+    Introduce el segundo numero: <input type="text" name="numero2"><br/>
+    Introduce el tercer numero: <input type="text" name="numero3"><br/>
+    
+    <button type="submit">ENVIAR</button>
+    </form>
+    
+
+
+</body>
+</html>

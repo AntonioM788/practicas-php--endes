@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>diasemana</title>
+</head>
+<body>
+    <p>Este es un programa que al introducir un número, te 
+        da el día de la semana correspondiente
+    </p>
+    <form action="diasemana.php" method="get">
+        introduce numero: <input type="text" name="num1"><br/>
+    
+        <button type="submit">Enviar</button>
+    </form>
+    
+</body>
+</html>
